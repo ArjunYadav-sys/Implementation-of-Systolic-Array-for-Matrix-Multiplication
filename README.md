@@ -35,4 +35,5 @@ A systolic array consists of multiple **Processing Elements (PEs)** arranged in 
 - Clock-driven synchronous design
 
 ## 📂 Project Structure
-[Add your project structure here]
+ -> Systolic_array.v
+ -> tb_Systolic_array.v
